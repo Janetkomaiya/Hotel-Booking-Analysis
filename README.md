@@ -16,6 +16,30 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 
 ---
 
+## Key Metrics Analyzed
+- **Total Bookings**
+- **Total Checkouts**
+- **Total Cancellations**
+- **Cancellation Rate**
+- **Average Lead Time**
+- **Average Revenue**
+- **Meal Plan Count**
+
+---
+
+## Key Insights
+- Direct bookings consistently outperform other channels.
+- Booking peaks occur during mid-year months (June to August)
+- A notable percentage of bookings were canceled, impacting total revenue.
+- Most guests prefer tge SC (Self-catering ) meak plan option.
+
+---
+
+## Dashboard Preview
+
+
+
+
   
   
   
