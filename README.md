@@ -38,10 +38,11 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 ## Dashboard Preview
 
 **KPI Overview**
-[ ! [KPI Overview] (Images/KPI Overview.png)
+ ! [KPI Overview]
+ (Images/Kpi_overview.png)
 
 **Channels Trend**
-[Channels Trend] (Images/Channels trend.png)
+! [Channels Trend] (Images/Channels_trend.png)
 
 
 
