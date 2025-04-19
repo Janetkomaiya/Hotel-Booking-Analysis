@@ -17,22 +17,27 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 ---
 
 ## Key Metrics Analyzed
-- **Total Bookings**
-- **Total Checkouts**
-- **Total Cancellations**
-- **Cancellation Rate**
-- **Average Lead Time**
-- **Average Revenue**
-- **Meal Plan Count**
+- **Total Bookings** -4000
+- **Total Checkouts** -2,712
+- **Total Cancellations** -1,264
+- **Cancellation Rate** - 31.60%
+- **Average Lead Time** -55.31
+- **Average Revenue** -646.06
+- **Meal Plan Count** - Breakfast included
+ 
+## Business Questions Answered
 
----
+- What percentage of bookings are canceled, and how does it affect revenue?
 
-## Key Insights
-- Direct bookings consistently outperform other channels.
-- Booking peaks occur during mid-year months (June to August)
-- A notable percentage of bookings were canceled, impacting total revenue.
-- Most guests prefer tge SC (Self-catering ) meak plan option.
+- Which distribution channels bring the most completed bookings?
 
+- Are there seasonal trends in guest check-ins?
+
+- Which hotel type performs better across seasons?
+
+- What is the average lead time, and how can it help improve forecasting?
+
+ 
 ---
 
 ## Dashboard Preview
@@ -49,6 +54,31 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 
 -**Visualization**: Check-Outs by Distribution  Channel using column chart
 - Helps analyze channel performance and trends over time
+
+---
+
+## Insights Summary
+
+- Direct bookings consistently outperform other channels.
+
+- Booking peaks occur during mid-year months (June to August).
+
+- A notable percentage of bookings are canceled, impacting total revenue.
+
+- Most guests prefer the SC (self-catering) meal plan option.
+
+---
+
+## Conclusion
+The dashboard gives hotel managers a quick and interactive overview of key metrics and trends. It empowers data-driven decisions in marketing, revenue management, and guest experience strategy
+
+---
+
+## Contact
+Created by **Janet komaiya** - [
+
+
+  
 
 
 
