@@ -38,8 +38,7 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 ## Dashboard Preview
 
 **KPI Overview**
- ! [KPI Overview]
- (Images/Kpi_overview.png)
+ ! [KPI Overview](https://github.com/Janetkomaiya/Hotel-Booking-Analysis/blob/main/Channels_trend.png)
 
 **Channels Trend**
 ! [Channels Trend] (Images/Channels_trend.png)
