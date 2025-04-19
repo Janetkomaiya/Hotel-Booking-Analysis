@@ -75,7 +75,9 @@ The dashboard gives hotel managers a quick and interactive overview of key metri
 ---
 
 ## Contact
-Created by **Janetkomaiya** - [https://www.linkedin.com/in/janet-komaiya-b4533a120?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app] | [www.gbemisolajanet@gmail.com]
+Created by **Janetkomaiya** - [https://www.linkedin.com/in/janet-ifidon-b4533a120?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ] 
+
+| [www.gbemisolajanet@gmail.com]
 
 
   
