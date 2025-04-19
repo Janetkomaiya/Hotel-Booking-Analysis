@@ -39,9 +39,16 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 
 **KPI Overview**
  ! [KPI Overview](https://github.com/Janetkomaiya/Hotel-Booking-Analysis/blob/main/kpi_overview.png)
+
+ - **KPIs shown**: Total Bookings,Check-Outs, Cancellation Rate,Average Lead Time, Average Revenue
+ - **Visualization**: Meal plan peferences shown using a bar chart
+ - **Filters included**: Hotel type
+ - **Design elements**: Guages and cards for quick metric
  
  **Channels Trend**! [Channels Trend](https://github.com/Janetkomaiya/Hotel-Booking-Analysis/blob/main/Channels_trend.png)
 
+-**Visualization**: Check-Outs by Distribution  Channel using column chart
+- Helps analyze channel performance and trends over time
 
 
 
