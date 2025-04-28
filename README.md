@@ -1,5 +1,6 @@
-# Hotel Booking Analysis(Resort Hotel Only)
-## Project Overview
+# 📈 Hotel Booking Analysis(Resort Hotel Only)
+
+## 📂 Project Overview
 This project analyzes resort hotel booking data to identify trends in guest behavior, booking patterns, cancellations, and revenue performance. The data was cleaned using Excel and Power BI, analyzed using SQL, and visualized through and interactive dashboard in Power BI. The goal is to uncover anctionable insights that can help hotel management improve operations and reduce cancellations.
 ## Dataset
 - **Source**: [Kaggle - Hotel Booking Dataset](https://www.kaggle.com/datasets/ahmedsafwatgb20/hotel-bookingscsv)
@@ -8,7 +9,7 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 - **Excel** - Initial data cleaning
 - **Power BI(Power Query)** - Data transformation and additional cleaning
 - **SQL** - Data analysis and metric calculations
@@ -25,7 +26,7 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 - **Average Revenue** -646.06
 - **Meal Plan Count** - Breakfast included
  
-## Business Questions Answered
+## ❓ Business Questions Answered
 
 - What percentage of bookings are canceled, and how does it affect revenue?
 
@@ -40,7 +41,7 @@ This project analyzes resort hotel booking data to identify trends in guest beha
  
 ---
 
-## Dashboard Preview
+## 🖥️ Dashboard Preview
 
 **KPI Overview**
  ! [KPI Overview](https://github.com/Janetkomaiya/Hotel-Booking-Analysis/blob/main/kpi_overview.png)
@@ -57,7 +58,7 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 
 ---
 
-## Insights Summary
+## ✨ Key Insights 
 
 - Direct bookings consistently outperform other channels.
 
@@ -69,15 +70,19 @@ This project analyzes resort hotel booking data to identify trends in guest beha
 
 ---
 
-## Conclusion
+## 📌 Conclusion
 The dashboard gives hotel managers a quick and interactive overview of key metrics and trends. It empowers data-driven decisions in marketing, revenue management, and guest experience strategy
 
 ---
 
-## Contact
-Created by **Janetkomaiya** - [https://www.linkedin.com/in/janet-komaiya-b4533a120?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ] 
 
-| [www.gbemisolajanet@gmail.com]
+Created by **Janetkomaiya**
+
+## Connect with me
+
+**[Linkendin profile]**: (https://www.linkedin.com/in/janet-komaiya-b4533a120?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+**Email**| [www.gbemisolajanet@gmail.com]
 
 
   
